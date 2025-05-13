@@ -17,5 +17,5 @@ git clone git@github.com:dajuarez4/interactive_md_game.git
 cd interactive_md_game
 python -m venv md_game_env
 source md_game_env/bin/activate  # or md_game_env\Scripts\activate on Windows
-pip install -r requirements.txt
+pip install -r requiriments.txt
 python main.py
